@@ -13,7 +13,7 @@ I'm a programmer and cybersecurity enthusiast dedicated to developing secure and
 
 I take private commissions directly through Crypto & Robux. I provide prolonged support, future fixes, and a fully customizable development experience. I'm experienced with both Windows and browser scripting and I'll code you almost anything. I prefer software development. I'm also capable of making fully integrated Discord bots (Discord.js) or Telegram bot with a guide for hosting them non-locally. Payment will be fully dependent on the project.
 
-![BTC](https://img.shields.io/badge/BTC-orange?style=flat-square&logo=bitcoin&logoColor=white)![LTC](https://img.shields.io/badge/LTC-blue?style=flat-square&logo=litecoin&logoColor=white)![ETH](https://img.shields.io/badge/ETH-gray?style=flat-square&logo=ethereum&logoColor=white)![Robux](https://img.shields.io/badge/Robux-green?style=flat-square&logo=roblox&logoColor=white)
+![BTC](https://img.shields.io/badge/BTC-orange?style=flat-square&logo=bitcoin&logoColor=white) ![LTC](https://img.shields.io/badge/LTC-blue?style=flat-square&logo=litecoin&logoColor=white) ![ETH](https://img.shields.io/badge/ETH-gray?style=flat-square&logo=ethereum&logoColor=white) ![Robux](https://img.shields.io/badge/Robux-gold?style=flat-square&logo=roblox&logoColor=white)
 
 ## ⚙️ Tech Stack
 
