@@ -1,4 +1,4 @@
-# I'm Damon
+# Hi. I'm Damon
 
 I'm a programmer and cybersecurity enthusiast dedicated to developing secure and innovative products. I'm currently involved in pentesting, reverse engineering and low-level programming.
 
