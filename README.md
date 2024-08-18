@@ -3,7 +3,7 @@
 I'm a programmer and cybersecurity enthusiast dedicated to developing secure and innovative products. I'm currently involved in pentesting, reverse engineering, and low-level programming.
 
 <details>
-  <summary>Contact 📩</summary>
+  <summary>📩 Contact</summary>
 
   - **Discord:** [Swedish.Psycho](https://discordapp.com/users/Swedish.Psycho)
   - **Telegram:** morguekid
@@ -13,7 +13,7 @@ I'm a programmer and cybersecurity enthusiast dedicated to developing secure and
 </details>
 
 <details>
-  <summary>Commissions 💸</summary>
+  <summary>💸 Commissions</summary>
 
   I take private commissions directly through Crypto & Robux. I provide prolonged support, future fixes, and a fully customizable development experience. I'm experienced with both Windows and browser scripting and I'll code you almost anything. I prefer software development. I'm also capable of making fully integrated Discord bots (Discord.js) or Telegram bots with a guide for hosting them non-locally. Payment will be fully dependent on the project.
 
@@ -22,7 +22,7 @@ I'm a programmer and cybersecurity enthusiast dedicated to developing secure and
 </details>
 
 <details>
-  <summary>⚙️ Tech Stack</summary>
+  <summary>⚙️ Experience & Dev Env</summary>
 
   ### Programming Languages & Experience
 
