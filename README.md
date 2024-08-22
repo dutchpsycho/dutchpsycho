@@ -1,6 +1,6 @@
 # Hi. I'm Damon
 
-I'm a programmer and cybersecurity enthusiast dedicated to developing better products. I'm involved in pentesting, reverse engineering, browser scripting & low-level programming.
+I'm a programmer and cybersecurity enthusiast dedicated to developing better products. I'm involved in pentesting, reverse engineering, browser scripting & most sorts of programming. I do NOT do a lot of web dev.
 
 <details>
   <summary>📩 Contact</summary>
