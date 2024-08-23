@@ -6,7 +6,7 @@ I'm a programmer and cybersecurity enthusiast dedicated to developing better pro
   <summary>📩 Contact</summary>
 
   - **Discord:** [Swedish.Psycho](https://discordapp.com/users/Swedish.Psycho)
-  - **Telegram:** morguekid
+  - **Telegram:** swedishpsyched
   - **Email:** [hat3damon@gmail.com](mailto:hat3damon@gmail.com)
   - **LinkT:** [Feds.lol](https://feds.lol/morgue)
 
