@@ -24,14 +24,14 @@ I'm a fullstack backend programmer & CS student. I'm invovled in pentesting, vul
 <details>
   <summary>⚙️ Experience</summary>
 
-  ### Programming Languages & Experience
+  ### Programming Languages
 
   | **Language**  | **Experience**  | **Info**                                                                 |
   |---------------|-----------------|--------------------------------------------------------------------------|
   | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) | **Advanced**       | Browser scripting, APIs, Discord bots, Electron UIs, anything frontend. |
   | ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)             | **Advanced**       | Simple programs, automation, reversing, proof of concepts                   |
   | ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=cplusplus&logoColor=white)           | **Advanced**       | Non-GUI Software, Drivers, Advanced tools & programs      |
-  | ![Rust](https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust&logoColor=white)                 | **Intermediate**   | If JS isn't fast enough & I safety is required.                         |
+  | ![Rust](https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust&logoColor=white)                 | **Intermediate**   | If JS isn't fast enough & safety is required.                         |
   | ![C#](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=csharp&logoColor=white)                 | **Intermediate**   | UI/GUI development, WPF, Fluent WPF, sometimes used alternatively to JS                  |
 
 </details>
