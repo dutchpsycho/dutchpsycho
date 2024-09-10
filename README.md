@@ -41,7 +41,7 @@ I'm a fullstack backend programmer & CS student. I'm invovled in pentesting, vul
 
   ![Cert IV in Cybersec](https://img.shields.io/badge/Cert_IV-Cybersecurity-blue?style=flat-square)
   ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-blue?style=flat-square)
-  ![CompTIA A++](https://img.shields.io/badge/CompTIA-A++%2B-blue?style=flat-square)
+  ![CompTIA A++](https://img.shields.io/badge/CompTIA-A+%2B-blue?style=flat-square)
   ![CompTIA Basic](https://img.shields.io/badge/CompTIA-Basic%2B-blue?style=flat-square)
 
 </details>
