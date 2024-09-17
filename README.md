@@ -1,6 +1,6 @@
 # Hi. I'm Damon
 
-I'm a fullstack backend programmer & CS student. I'm invovled in pentesting, vulnerability assesment & software dev.
+I'm a fullstack backend programmer & studentm, I'm invovled in pentesting, vuln assesment & software dev.
 
 <details>
   <summary>📩 Contact</summary>
@@ -15,7 +15,7 @@ I'm a fullstack backend programmer & CS student. I'm invovled in pentesting, vul
 <details>
   <summary>💸 Commissions</summary>
 
-  I take private commissions directly through Crypto & Robux. I can do most things, the amount will depend on your requests. For more information, contact me directly
+  I take private commissions through Crypto & Robux. Amount will depend on your request.
 
   ![BTC](https://img.shields.io/badge/BTC-orange?style=flat-square&logo=bitcoin&logoColor=white) ![LTC](https://img.shields.io/badge/LTC-blue?style=flat-square&logo=litecoin&logoColor=white) ![ETH](https://img.shields.io/badge/ETH-gray?style=flat-square&logo=ethereum&logoColor=white) ![Robux](https://img.shields.io/badge/Robux-gold?style=flat-square&logo=roblox&logoColor=white)
 
