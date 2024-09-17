@@ -2,6 +2,8 @@
 
 I'm a fullstack backend programmer & studentm, I'm invovled in pentesting, vuln assesment & software dev.
 
+![Discord Server Widget](https://discord.c99.nl/widget/theme-4/1172894603167412268.png)
+
 <details>
   <summary>📩 Contact</summary>
 
