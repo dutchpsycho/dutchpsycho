@@ -1,6 +1,6 @@
 # Hi. I'm Damon
 
-Fullstack backend programmer & studentm, I'm invovled in pentesting, vuln assesment & software dev.
+fullstack programmer & cs student, Invovled in pentesting, vuln assesment & security research
 
 <details>
   <summary>📩 Contact</summary>
