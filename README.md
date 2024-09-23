@@ -21,7 +21,10 @@
 
 # 👤 Private Commissions
 
-![BTC](https://img.shields.io/badge/BTC-orange?style=flat-square&logo=bitcoin&logoColor=white) ![LTC](https://img.shields.io/badge/LTC-blue?style=flat-square&logo=litecoin&logoColor=white) ![ETH](https://img.shields.io/badge/ETH-gray?style=flat-square&logo=ethereum&logoColor=white) ![Robux](https://img.shields.io/badge/Robux-gold?style=flat-square&logo=roblox&logoColor=white)
+![BTC](https://img.shields.io/badge/BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white) 
+![LTC](https://img.shields.io/badge/LTC-A6A9AA?style=flat-square&logo=litecoin&logoColor=white) 
+![ETH](https://img.shields.io/badge/ETH-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) 
+![Robux](https://img.shields.io/badge/Robux-107C10?style=flat-square&logo=roblox&logoColor=white)
 
 # 📲 Contact
 
