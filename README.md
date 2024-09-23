@@ -5,8 +5,8 @@
   | **Lang**  | **Level**  | **Info**                                                                 |
   |---------------|-----------------|--------------------------------------------------------------------------|
   | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) | **Advanced**       | Browser scripting, APIs, Discord bots, Electron UIs, goto for frontend. |
-  | ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)             | **Advanced**       | Simple programs, automation, reversing, proof of concepts                   |
   | ![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square&logo=cplusplus&logoColor=white)           | **Advanced**       | Cli Software, Drivers, tools & programs      |
+  | ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)             | **Advanced**       | Simple programs, automation, reversing, proof of concepts                   |
   | ![Rust](https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust&logoColor=white)                 | **Advanced**   | JS on roids.                         |
   | ![C#](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=csharp&logoColor=white)                 | **Intermediate**   | UI/GUI development, WPF, Fluent WPF, sometimes used alternatively to JS                  |
   | ![Lua](https://img.shields.io/badge/-Lua-darkblue?style=flat-square&logo=lua&logoColor=white)                 | **Low**            | Logitech GHUB, Basic LuaU                     |
