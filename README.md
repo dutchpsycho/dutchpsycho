@@ -1,57 +1,34 @@
 # Hi. I'm Damon
 
-fullstack programmer & cs student, Invovled in pentesting, vuln assesment & security research
+fullstack programmer & CS student, Invovled in pentesting, vuln assesment & security research
 
-<details>
-  <summary>📩 Contact</summary>
+# ⚙️ Languages
 
-  - **Discord:** [Swedish.Psycho](https://discordapp.com/users/Swedish.Psycho)
-  - **Telegram:** swedishpsyched
-  - **Email:** [hat3damon@gmail.com](mailto:hat3damon@gmail.com)
-  - **LinkT:** [Feds.lol](https://feds.lol/morgue)
-
-</details>
-
-<details>
-  <summary>💸 Commissions</summary>
-
-  I take private commissions through Crypto & Robux. Amount will depend on your request.
-
-  ![BTC](https://img.shields.io/badge/BTC-orange?style=flat-square&logo=bitcoin&logoColor=white) ![LTC](https://img.shields.io/badge/LTC-blue?style=flat-square&logo=litecoin&logoColor=white) ![ETH](https://img.shields.io/badge/ETH-gray?style=flat-square&logo=ethereum&logoColor=white) ![Robux](https://img.shields.io/badge/Robux-gold?style=flat-square&logo=roblox&logoColor=white)
-
-</details>
-
-<details>
-  <summary>⚙️ Experience</summary>
-
-  ### Programming Languages
-
-  | **Language**  | **Experience**  | **Info**                                                                 |
+  | **Lang**  | **Level**  | **Info**                                                                 |
   |---------------|-----------------|--------------------------------------------------------------------------|
-  | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) | **Advanced**       | Browser scripting, APIs, Discord bots, Electron UIs, anything frontend. |
+  | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) | **Advanced**       | Browser scripting, APIs, Discord bots, Electron UIs, goto for frontend. |
   | ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)             | **Advanced**       | Simple programs, automation, reversing, proof of concepts                   |
-  | ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=cplusplus&logoColor=white)           | **Advanced**       | Non-GUI Software, Drivers, Advanced tools & programs      |
-  | ![Rust](https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust&logoColor=white)                 | **Intermediate**   | If JS isn't fast enough & safety is required.                         |
+  | ![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square&logo=cplusplus&logoColor=white)           | **Advanced**       | Cli Software, Drivers, tools & programs      |
+  | ![Rust](https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust&logoColor=white)                 | **Advanced**   | JS on roids.                         |
   | ![C#](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=csharp&logoColor=white)                 | **Intermediate**   | UI/GUI development, WPF, Fluent WPF, sometimes used alternatively to JS                  |
+  | ![Lua](https://img.shields.io/badge/-Lua-darkblue?style=flat-square&logo=lua&logoColor=white)                 | **Low**            | Logitech GHUB, Basic LuaU                     |
+  | ![Go](https://img.shields.io/badge/-Go-lightblue?style=flat-square&logo=go&logoColor=white)                   | **Low**            | High concurrency cli tools                     |
 
-</details>
-
-<details>
-  <summary>🎓 Certifications</summary>
+# 🎓 Certifications
 
   ![Cert IV in Cybersec](https://img.shields.io/badge/Cert_IV-Cybersecurity-blue?style=flat-square)
   ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-blue?style=flat-square)
   ![CompTIA A++](https://img.shields.io/badge/CompTIA-A+%2B-blue?style=flat-square)
   ![CompTIA Basic](https://img.shields.io/badge/CompTIA-Basic%2B-blue?style=flat-square)
 
-</details>
 
-<details>
-  <summary>📦 Projects</summary>
+# 📩 Contact
 
-  | **Alias**                                          | **About**                                                                                               | **Icon**                                                                                                                              |
-  |----------------------------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-  | **[TITAN Softworks Solutions](https://discord.gg/yUWyvT9JyP)** | Multiple software solutions, including my open source spoofer. [Join the Discord](https://discord.gg/yUWyvT9JyP) | <img src="https://cdn.discordapp.com/icons/1240608336005828668/c1bf74f2566a9ab188447ef8ce679b4d.webp?size=1024&format=webp" alt="TITAN Icon" width="50" height="50"> |                  
-  | **[RobloxPy](https://github.com/dutchpsycho/RobloxPy-Roblox-API-Wrapper)** | A Python API Wrapper for Roblox.                                                                 |                                                                                                                                     |
+[![Discord](https://img.shields.io/badge/Discord-Swedish.Psycho-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discordapp.com/users/Swedish.Psycho)
+[![Telegram](https://img.shields.io/badge/Telegram-morguekid-2CA5E0?logo=telegram&logoColor=white&style=flat-square)]()
+[![Email](https://img.shields.io/badge/Email-hat3damon%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:hat3damon@gmail.com)
+[![LinkT](https://img.shields.io/badge/Feds.lol-morgue-000000?logo=linktree&logoColor=white&style=flat-square)](https://feds.lol/morgue)
 
-</details>
+# 👤 Private Commissions
+
+  ![BTC](https://img.shields.io/badge/BTC-orange?style=flat-square&logo=bitcoin&logoColor=white) ![LTC](https://img.shields.io/badge/LTC-blue?style=flat-square&logo=litecoin&logoColor=white) ![ETH](https://img.shields.io/badge/ETH-gray?style=flat-square&logo=ethereum&logoColor=white) ![Robux](https://img.shields.io/badge/Robux-gold?style=flat-square&logo=roblox&logoColor=white)
