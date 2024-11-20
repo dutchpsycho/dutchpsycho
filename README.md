@@ -2,22 +2,19 @@
 
 # 🖥️ Languages
 
-  | **Lang**  | **Level**  | **Info**                                                                 |
-  |---------------|-----------------|--------------------------------------------------------------------------|
-  | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) | **Advanced**       | Browser scripting, APIs, Discord bots, Electron UIs, goto for frontend. |
-  | ![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square&logo=cplusplus&logoColor=white)           | **Advanced**       | Cli Software, Drivers, tools & programs      |
-  | ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)             | **Advanced**       | Simple programs, automation, reversing, proof of concepts                   |
-  | ![Rust](https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust&logoColor=white)                 | **Advanced**   | JS on roids.                         |
-  | ![C#](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=csharp&logoColor=white)                 | **Intermediate**   | UI/GUI development, WPF, Fluent WPF, sometimes used alternatively to JS                  |
-  | ![Lua](https://img.shields.io/badge/-Lua-darkblue?style=flat-square&logo=lua&logoColor=white)                 | **Low**            | Logitech GHUB, Basic LuaU                     |
-  | ![Go](https://img.shields.io/badge/-Go-lightblue?style=flat-square&logo=go&logoColor=white)                   | **Low**            | High concurrency cli tools                     |
+| **Language**                                                                 | **Proficiency**    | **Details**                                                                   |
+|------------------------------------------------------------------------------|--------------------|-------------------------------------------------------------------------------|
+| ![C/C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)           | **Advanced** |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | **Advanced** |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)             | **Advanced** |
+| ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)                      | **Fine** |
 
 # 🎓 Certifications
 
   ![Harvard CS50x](https://img.shields.io/badge/Harvard-CS50x-orange?style=flat-square)
   ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-blue?style=flat-square)
   ![CompTIA A++](https://img.shields.io/badge/CompTIA-A+%2B-blue?style=flat-square)
-  ![CompTIA ITF](https://img.shields.io/badge/CompTIA-Basic%2B-blue?style=flat-square)
+  ![CompTIA ITF](https://img.shields.io/badge/CompTIA-ITF%2B-blue?style=flat-square)
 
 # 👤 Private Commissions
 
