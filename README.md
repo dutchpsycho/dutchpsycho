@@ -14,10 +14,10 @@
 
 # 🎓 Certifications
 
-  ![Cert IV in Cybersec](https://img.shields.io/badge/Cert_IV-Cybersecurity-blue?style=flat-square)
+  ![Harvard CS50x](https://img.shields.io/badge/Harvard-CS50x-orange?style=flat-square)
   ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-blue?style=flat-square)
   ![CompTIA A++](https://img.shields.io/badge/CompTIA-A+%2B-blue?style=flat-square)
-  ![CompTIA Basic](https://img.shields.io/badge/CompTIA-Basic%2B-blue?style=flat-square)
+  ![CompTIA ITF](https://img.shields.io/badge/CompTIA-Basic%2B-blue?style=flat-square)
 
 # 👤 Private Commissions
 
@@ -29,6 +29,4 @@
 # 📲 Contact
 
 [![Discord](https://img.shields.io/badge/Discord-Swedish.Psycho-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discordapp.com/users/Swedish.Psycho)
-[![Telegram](https://img.shields.io/badge/Telegram-morguekid-2CA5E0?logo=telegram&logoColor=white&style=flat-square)]()
 [![Email](https://img.shields.io/badge/Email-hat3damon%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:hat3damon@gmail.com)
-[![LinkT](https://img.shields.io/badge/Feds.lol-morgue-000000?logo=linktree&logoColor=white&style=flat-square)](https://feds.lol/morgue)
