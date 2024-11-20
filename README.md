@@ -1,4 +1,4 @@
-# Hi. I'm Damon
+# Hi, I'm Damon
 
 # 🖥️ Languages
 
