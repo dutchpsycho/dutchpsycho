@@ -2,12 +2,15 @@
 
 # 🖥️ Languages
 
-| **Language**                                                                 | **Proficiency**    | **Details**                                                                   |
-|------------------------------------------------------------------------------|--------------------|-------------------------------------------------------------------------------|
-| ![C/C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)           | **Advanced** |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | **Advanced** |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)             | **Advanced** |
-| ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)                      | **Fine** |
+| **Language**                                                                 | **Proficiency**    |
+|------------------------------------------------------------------------------|--------------------|
+| ![C/C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)           | **Advanced**       |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | **Advanced**       |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)             | **Advanced**       |
+| ![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=black)                   | **Advanced**       |
+| ![C#](https://img.shields.io/badge/-C%23-68217A?style=flat-square&logo=csharp&logoColor=white)                   | **Fine**   |
+| ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)                      | **Fine**           |
+| ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)                        | **New**           |
 
 # 🎓 Certifications
 
