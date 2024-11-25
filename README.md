@@ -1,30 +1,30 @@
 # Hi, I'm Damon
 
+I'm an 18-year-old self-taught fullstack developer with ~1.5 year of programming experience (don't let that fool you). My primary passion lies within software development & reverse engineering, but I'm fully capable of building Web apps (both Front & Backend).
+
 # 🖥️ Languages
 
-| **Language**                                                                 | **Proficiency**    |
-|------------------------------------------------------------------------------|--------------------|
-| ![C/C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)           | **Advanced**       |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | **Advanced**       |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)             | **Advanced**       |
-| ![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=black)                   | **Advanced**       |
-| ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)                      | **Fine**           |
+![lol](https://go-skill-icons.vercel.app/api/icons?titles=true&i=asm,cpp,c,cs,rust,python,js,ts,luau)
 
-# 🎓 Certifications
+## 🎓 Certifications
 
-  ![Harvard CS50x](https://img.shields.io/badge/Harvard-CS50x-orange?style=flat-square)
-  ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-blue?style=flat-square)
-  ![CompTIA A++](https://img.shields.io/badge/CompTIA-A+%2B-blue?style=flat-square)
-  ![CompTIA ITF](https://img.shields.io/badge/CompTIA-ITF%2B-blue?style=flat-square)
+![Harvard cs50x](https://custom-icon-badges.herokuapp.com/badge/Harvard-CS50x-orange?style=for-the-badge&logo=book&logoColor=white)  
+![CompTIA CySA+](https://custom-icon-badges.herokuapp.com/badge/CompTIA-CySA%2B-blue?style=for-the-badge&logo=shield&logoColor=white)  
+![CompTIA A++](https://custom-icon-badges.herokuapp.com/badge/CompTIA-A%2B%2B-darkblue?style=for-the-badge&logo=cpu&logoColor=white)  
+![CompTIA ITF](https://custom-icon-badges.herokuapp.com/badge/CompTIA-ITF%2B-brightgreen?style=for-the-badge&logo=code&logoColor=white)  
 
-# 👤 Private Commissions
+---
 
-![BTC](https://img.shields.io/badge/BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white) 
-![LTC](https://img.shields.io/badge/LTC-A6A9AA?style=flat-square&logo=litecoin&logoColor=white) 
-![ETH](https://img.shields.io/badge/ETH-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) 
-![Robux](https://img.shields.io/badge/Robux-107C10?style=flat-square&logo=roblox&logoColor=white)
+## 👤 Private Commissions
 
-# 📲 Contact
+![BTC](https://custom-icon-badges.herokuapp.com/badge/BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)  
+![LTC](https://custom-icon-badges.herokuapp.com/badge/LTC-gray?style=for-the-badge&logo=litecoin&logoColor=white)  
+![ETH](https://custom-icon-badges.herokuapp.com/badge/ETH-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Robux](https://custom-icon-badges.herokuapp.com/badge/Robux-107C10?style=for-the-badge&logo=roblox&logoColor=white)  
 
-[![Discord](https://img.shields.io/badge/Discord-Swedish.Psycho-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discordapp.com/users/Swedish.Psycho)
-[![Email](https://img.shields.io/badge/Email-hat3damon%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:hat3damon@gmail.com)
+---
+
+## 📲 Contact
+
+[![Discord](https://custom-icon-badges.herokuapp.com/badge/Discord-Swedish.Psycho-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Swedish.Psycho)  
+[![Email](https://custom-icon-badges.herokuapp.com/badge/Email-hat3damon%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hat3damon@gmail.com)  
