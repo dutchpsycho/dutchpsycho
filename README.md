@@ -1,5 +1,3 @@
-# Hi, I'm Damon
-
 I'm an 18-year-old self-taught fullstack developer with ~1.5 year of programming experience (don't let that fool you). My primary interest lies within software development & reverse engineering, but I'm fully capable of building Web apps (both Front & Backend).
 
 # 🖥️ Languages
