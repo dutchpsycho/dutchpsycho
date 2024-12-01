@@ -15,6 +15,8 @@ I'm an 18-year-old self-taught fullstack developer with ~1.5 years of programmin
 
 ## Commissions
 
+Contact me directly for pricing, will vary depending on your project.
+
 ![BTC](https://custom-icon-badges.herokuapp.com/badge/BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)  
 ![LTC](https://custom-icon-badges.herokuapp.com/badge/LTC-gray?style=for-the-badge&logo=litecoin&logoColor=white)  
 ![ETH](https://custom-icon-badges.herokuapp.com/badge/ETH-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
