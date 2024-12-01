@@ -1,10 +1,10 @@
 I'm an 18-year-old self-taught fullstack developer with ~1.5 years of programming experience. My primary interest lies within software development & reverse engineering, but I'm fully capable of building Web apps (both Front & Backend).
 
-# 🖥️ Languages
+# Languages
 
 ![lol](https://go-skill-icons.vercel.app/api/icons?titles=true&i=asm,cpp,c,cs,rust,python,js,ts,luau)
 
-## 🎓 Certifications
+## Certifications
 
 ![Harvard cs50x](https://custom-icon-badges.herokuapp.com/badge/Harvard-CS50x-orange?style=for-the-badge&logo=book&logoColor=white)  
 ![CompTIA CySA+](https://custom-icon-badges.herokuapp.com/badge/CompTIA-CySA%2B-blue?style=for-the-badge&logo=shield&logoColor=white)  
@@ -13,7 +13,7 @@ I'm an 18-year-old self-taught fullstack developer with ~1.5 years of programmin
 
 ---
 
-## 👤 Private Commissions
+## Private Commissions
 
 ![BTC](https://custom-icon-badges.herokuapp.com/badge/BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)  
 ![LTC](https://custom-icon-badges.herokuapp.com/badge/LTC-gray?style=for-the-badge&logo=litecoin&logoColor=white)  
@@ -22,7 +22,7 @@ I'm an 18-year-old self-taught fullstack developer with ~1.5 years of programmin
 
 ---
 
-## 📲 Contact
+## Contact
 
 [![Discord](https://custom-icon-badges.herokuapp.com/badge/Discord-Swedish.Psycho-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Swedish.Psycho)  
 [![Email](https://custom-icon-badges.herokuapp.com/badge/Email-hat3damon%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hat3damon@gmail.com)  
