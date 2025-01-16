@@ -1,4 +1,4 @@
-I'm an 18-year-old self-taught fullstack developer with ~1.5 years of programming experience. My primary interest lies within software development & reverse engineering, but I'm fully capable of building Web apps (both Front & Backend).
+18yr old dev w/ 1.5yrs of coding experience. I mainly do low level backend development, but I'm familiar with Web dev.
 
 # Languages
 
