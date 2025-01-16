@@ -15,12 +15,7 @@
 
 ## Commissions
 
-Contact me directly for pricing, will vary depending on your project.
-
-![BTC](https://custom-icon-badges.herokuapp.com/badge/BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)  
-![LTC](https://custom-icon-badges.herokuapp.com/badge/LTC-gray?style=for-the-badge&logo=litecoin&logoColor=white)  
-![ETH](https://custom-icon-badges.herokuapp.com/badge/ETH-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
-![Robux](https://custom-icon-badges.herokuapp.com/badge/Robux-107C10?style=for-the-badge&logo=roblox&logoColor=white)  
+Contact me directly for pricing, will vary depending on your project. I accept payments via Crypto & Robux
 
 ---
 
