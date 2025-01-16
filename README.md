@@ -1,4 +1,4 @@
-18yr old dev w/ 1.5yrs of coding experience. I mainly do low level backend development, but I'm familiar with Web dev.
+18yr old dev w/1.5yrs of coding experience. I mainly do low level backend development, but I'm familiar with Web dev.
 
 # Languages
 
