@@ -15,11 +15,10 @@
 
 ## Commissions
 
-Contact me directly for pricing, will vary depending on your project. I accept payments via Crypto & Robux
+Pricing will vary depending on your project. I accept Crypto, Paypal & Robux.
 
 ---
 
 ## Contact
 
 [![Discord](https://custom-icon-badges.herokuapp.com/badge/Discord-Swedish.Psycho-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Swedish.Psycho)  
-[![Email](https://custom-icon-badges.herokuapp.com/badge/Email-hat3damon%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hat3damon@gmail.com)  
