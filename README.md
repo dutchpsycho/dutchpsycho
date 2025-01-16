@@ -13,7 +13,7 @@
 
 ---
 
-## Commissions
+## 4 Hire
 
 Pricing will vary depending on your project. I accept Crypto, Paypal & Robux.
 
