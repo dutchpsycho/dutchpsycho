@@ -2,7 +2,7 @@
 
 # Languages
 
-![lol](https://go-skill-icons.vercel.app/api/icons?titles=true&i=asm,cpp,c,cs,rust,python,js,ts,luau)
+![lol](https://go-skill-icons.vercel.app/api/icons?titles=true&i=asm,cpp,rust,python,js,luau)
 
 ## Certs
 
