@@ -4,14 +4,13 @@
 
 # Languages
 
-![lol](https://go-skill-icons.vercel.app/api/icons?titles=true&i=asm,cpp,rust,python,js,luau)
-
-## Certs
-
-![Harvard cs50x](https://custom-icon-badges.herokuapp.com/badge/Harvard-CS50x-orange?style=for-the-badge&logo=book&logoColor=white)  
-![CompTIA CySA+](https://custom-icon-badges.herokuapp.com/badge/CompTIA-CySA%2B-blue?style=for-the-badge&logo=shield&logoColor=white)  
-![CompTIA A++](https://custom-icon-badges.herokuapp.com/badge/CompTIA-A%2B%2B-darkblue?style=for-the-badge&logo=cpu&logoColor=white)  
-![CompTIA ITF](https://custom-icon-badges.herokuapp.com/badge/CompTIA-ITF%2B-brightgreen?style=for-the-badge&logo=code&logoColor=white)  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="40" height="40" alt="Rust Logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
