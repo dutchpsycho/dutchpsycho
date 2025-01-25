@@ -1,4 +1,6 @@
-18yr old dev w/1.5yrs of coding experience. I mainly do low level backend development, but I'm familiar with Web dev.
+18. 1.5 years experience programming. Software engineering, Cybersec, Offsec. CySA & CS50x Qualified
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=dutchpsycho&show_icons=false&count_private=true&theme=dark)]()
 
 # Languages
 
