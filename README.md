@@ -1,4 +1,4 @@
-18. 1.5 years experience programming. Software engineering, Cybersec, Offsec. CySA & CS50x Qualified
+18. 1.5 years programming exp. Proficient in Software engineering, Cybersec and Offsec. CySA & CS50x Qualified
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=dutchpsycho&show_icons=false&count_private=true&theme=dark)]()
 
