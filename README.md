@@ -14,7 +14,7 @@
 
 ## 4 Hire
 
-Pricing varies depending on project. Crypto, Paypal, BSB, Overseas & Robux accepted.
+Pricing varies depending on project. Crypto, Paypal, BSB, Overseas.
 
 ---
 
