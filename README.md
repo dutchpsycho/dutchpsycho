@@ -1,4 +1,4 @@
-18. 1.5 years programming exp. Proficient in Software engineering, Cybersec and Offsec. CySA & CS50x Qualified
+18. 1.5 years programming exp. Proficient in Software engineering, Cybersecurity student.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
