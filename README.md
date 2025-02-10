@@ -1,6 +1,6 @@
 18-year-old full-stack developer with ~1.5 years of programming experience
 
-Student in Cybersecurity (Bachelors) & certified in CS50, CySA, ITF+
+Cybersecurity student & certified in CS50, CySA, ITF+
 
 My primary passion lies within pentesting, reverse engineering and software developement. However, I am familiar with web development (Front + Backend)
 
