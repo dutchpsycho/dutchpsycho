@@ -4,15 +4,10 @@ Cybersecurity student & certified in CS50, CySA, ITF+
 
 My primary passion lies within pentesting, reverse engineering and software developement. However, I am familiar with web development (Front + Backend)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="40" height="40" alt="Rust Logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" height="40"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dutchpsycho&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutchpsycho&layout=compact&hide_border=true&theme=dark&bg_color=0D1117" />
 </p>
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=dutchpsycho&show_icons=false&count_private=true&theme=dark)]()
 
 ---
 
