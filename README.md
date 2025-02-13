@@ -5,7 +5,7 @@ Cybersecurity student & certified in CS50, CySA, ITF+
 My primary passion lies within pentesting, reverse engineering and software developement. However, I am familiar with web development (Front + Backend)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dutchpsycho&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dutchpsycho&theme=dark&hide_border=true&background=00000000" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutchpsycho&layout=compact&hide_border=true&theme=dark&bg_color=0D1117" />
 </p>
 
