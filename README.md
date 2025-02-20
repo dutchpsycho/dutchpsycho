@@ -2,7 +2,7 @@
 
 Cybersecurity student & certified in CS50, CySA, ITF+
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutchpsycho&layout=compact&hide_border=true&theme=dark&bg_color=0D1117" />
 </p>
 
