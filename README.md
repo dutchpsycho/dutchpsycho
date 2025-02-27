@@ -13,7 +13,7 @@ Cybersecurity student. Certified in CS50, CySA, ITF+
 
 ## 4 Hire
 
-Pricing varies depending on project. Crypto, Paypal, BSB, Overseas.
+Pricing varies depending on project. Crypto.
 
 ---
 
