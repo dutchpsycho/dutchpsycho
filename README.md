@@ -13,7 +13,7 @@ Cybersec student. Certified in CS50x, CySA, ITF, BSB30120
 
 ## 4 Hire
 
-Pricing varies depending on project. Crypto.
+Crypto. Pricing varies
 
 ---
 
