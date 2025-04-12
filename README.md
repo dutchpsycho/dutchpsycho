@@ -1,6 +1,6 @@
-18 year old full-stack developer with ~1.5 years of programming experience
+19 year old full-stack developer with ~1.5 years of programming experience
 
-Cybersecurity student. Certified in CS50, CySA, ITF+
+Cybersec student. Certified in CS50x, CySA, ITF, BSB30120
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutchpsycho&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" width="48%" />
