@@ -13,7 +13,7 @@ Cybersec student. Certified in CS50x, CySA, ITF, BSB30120
 
 ## 4 Hire
 
-Crypto. Pricing varies
+Overseas/BSB/Crypto. For inquiries goto TitanSoftwork@protonmail.com, to fasttrack contact me via Discord or Telegram directly.
 
 ---
 
