@@ -1,4 +1,4 @@
-19 year old Cybersecurity Architect
+19 year old Cybersecurity Architect & Offensive Security Engineer
 
 Bachelor student. Cyber Cert IV, CySA, CS50x, ITF
 
