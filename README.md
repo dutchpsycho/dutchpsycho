@@ -2,7 +2,7 @@
 
 Bachelor student. Cyber Cert IV, CySA, CS50x, ITF
 
-Founder of **TITAN Softwork Solutions**
+Founder @**TITAN Softwork Solutions**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutchpsycho&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" width="48%" />
