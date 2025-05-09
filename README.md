@@ -1,6 +1,8 @@
-19 year old full-stack developer with ~1.5 years of programming experience
+19 year old Cybersecurity Architect
 
-Cybersec student. Certified in CS50x, CySA, ITF, BSB30120
+Bachelor student. Cyber Cert IV, CySA, CS50x, ITF
+
+Founder of **TITAN Softwork Solutions**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutchpsycho&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" width="48%" />
