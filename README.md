@@ -1,4 +1,4 @@
-19 year old Cybersecurity Architect & Offensive Security Engineer
+19 year old Offensive Tooling Engineer & Founder
 
 Bachelor student. Cyber Cert IV, CySA, CS50x, ITF
 
