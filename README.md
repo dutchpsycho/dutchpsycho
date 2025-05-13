@@ -15,11 +15,12 @@ Founder @**TITAN Softwork Solutions**
 
 ## 4 Hire
 
-Overseas/BSB/Crypto. For inquiries goto TitanSoftwork@protonmail.com, to fasttrack contact me via Discord or Telegram directly.
+Overseas/BSB/Crypto. For inquiries contact@titansoftwork.net, to fasttrack contact me via Discord or Telegram directly.
 
 ---
 
 ## Contact
 
+[![Email](https://img.shields.io/badge/Email-damon%40titansoftwork.net-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damon@titansoftwork.net)
 [![Discord](https://custom-icon-badges.herokuapp.com/badge/Discord-Swedish.Psycho-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Swedish.Psycho)  
 [![Telegram](https://img.shields.io/badge/Telegram-%40morguekid-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/morguekid)
