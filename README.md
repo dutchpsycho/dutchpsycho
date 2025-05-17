@@ -1,4 +1,4 @@
-19 year old Offensive Tooling Engineer & Founder
+19 year old Offensive Tooling Engineer
 
 Bachelor student. Cyber Cert IV, CySA, CS50x, ITF
 
