@@ -7,7 +7,7 @@ My projects speak louder than my certifications
 
 Bachelor student · Cyber Cert IV · CySA · CS50x · ITF+
 
-# CEO @TITANSOFTWORKSOLUTIONS
+# CEO @TITAN SOFTWORK SOLUTIONS
 ### Business inquiries: contact@titansoftwork.net
 ### Personal: damon@titansoftwork.net
 
