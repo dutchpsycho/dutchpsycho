@@ -1,10 +1,5 @@
 ### 06'
 
-My projects are my experience
-- [ActiveBreach](https://github.com/dutchpsycho/ActiveBreach-Engine)
-- [SysQuanta](https://github.com/dutchpsycho/SysQuanta)
-- [Sierra](https://github.com/dutchpsycho/Sierra-Hooking-Framework)
-
 Bachelor student · Cyber Cert IV · CySA · CS50x · ITF+
 
 ## CEO @TITAN SOFTWORK SOLUTIONS
