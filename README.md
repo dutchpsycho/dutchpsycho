@@ -2,7 +2,7 @@
 
 Bachelor student · Cyber Cert IV · CySA · CS50x · ITF+
 
-Inquire @ contact@titansoftwork.net
+Inquire @ damon@titansoftwork.com
 
 ---
 
