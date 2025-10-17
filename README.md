@@ -1,15 +1,17 @@
-### 06'
+# 06'
 
 Bachelor student · Cyber Cert IV · CySA · CS50x · ITF+
 
-I work with: Modern C++, C, Rust, Python, Javascript, SQL
+**Languages:** Modern C++, C, Rust, Python, JavaScript, SQL
+**Platforms:** Windows, Linux, QEMU/KVM (x86_64), VMware  
+**Windows:** WinAPI, NtAPI, ETW, WMI, COM, KMDF/WDF, Filter Manager (FltMgr), WdFilter.sys, PatchGuard, KMCI, HVCI, Hybrid-development 
+**Reverse engineering & malware analysis:** IDA Pro, Ghidra, WinDbg, Binary Ninja, Frida, SystemInformer, Sysmon, Process Monitor, Process Explorer, TCPView  
+**Security & detection:** EDR/AV internals (Microsoft Defender for Endpoint, Kaspersky Next Optimum), YARA/Sigma, Splunk SIEM  
+**Networking & web:** Browser APIs and cookies, web testing and injection (OWASP, Burp Suite, mitmproxy)  
+**Tooling:** Visual Studio Code, Visual Studio, RustRover
 
-I work on: Windows, Linux, QEMU/KVM (x86)
-
-I'm familiar with: Windows-Internals, NT-Kernel (PG, KMCI, HVCI) Reverse-Engineering, Software-Engineering (VSC, VS, RustRover), Virtualization (VMware, QEMU/KVM), SIEM management (Splunk), Endpoint-Detection-Response systems (Kaspersky-Next-Optimum, Microsoft-MDE), AntiVirus (Kaspersky Premium, Windows-Defender+WdFilter), Browsers API's & Web Cookies, Web-Pentesting & Injection (OWASP, Burp-Suite, MitM Proxy)
-
-Inquire @ damon@titansoftwork.com
+**Contact:** [damon@titansoftwork.com](mailto:damon@titansoftwork.com)
 
 ---
 
-![Metrics](https://github.com/dutchpsycho/dutchpsycho/blob/generated/metrics.svg)
+![Metrics](https://raw.githubusercontent.com/dutchpsycho/dutchpsycho/generated/metrics.svg)
