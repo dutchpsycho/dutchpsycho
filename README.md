@@ -1,4 +1,4 @@
-### Bachelor student · Cyber Cert IV · CySA · CS50x · ITF+
+### Student · Cyber Cert IV · CySA · CS50x · ITF+
 
 - **Languages:** Modern C++, C, Rust, Python, JavaScript, SQL
 - **Platforms:** Windows, Linux, QEMU/KVM (x86_64), VMware
