@@ -1,6 +1,6 @@
 ### Student · Cyber Cert IV · CySA · CS50x · ITF+
 
-- **Languages:** Modern C++, C, Rust, Python, JavaScript, SQL
+- **Languages:** Modern C++, C, Rust, Python, JavaScript, SQL, Three.js, WebGL
 - **Platforms:** Windows, Linux, QEMU/KVM (x86_64), VMware
 - **Windows:** WinAPI, NTAPI, ETW, WMI, COM, KMDF/WDF, Filter Manager (FltMgr), WdFilter.sys, PatchGuard, KMCI, HVCI, user-mode/kernel-mode hybrid development
 - **Reverse engineering:** IDA Pro, Ghidra, WinDbg, Binary Ninja, Frida, SystemInformer, Sysmon, SysInternalsSuite
