@@ -1,6 +1,6 @@
 Windows Security Engineering, Malware Analysis & Response, Reverse Engineering, Secure Software Development, Secure Infrastructure, and Internal Operations Platforms.
 
-### [Technical Writeups](https://titansoftwork.com/insight/)
+### [Technical Writeups](https://ryftenius.com/insight/)
 
 * **Secure Infrastructure:** Internal Networks, RBAC, 2FA/MFA, SSO, Encrypted Data Handling, Rate Limiting, Reverse Proxy, CSRF & Session Management
 * **Languages:** C++, C, Rust, x64 Assembly, C#/.NET 9, Python, JavaScript, PowerShell, Batch (CMD), SQL, Three.js, KQL, WebGL
@@ -17,4 +17,4 @@ Windows Security Engineering, Malware Analysis & Response, Reverse Engineering, 
 
 Cyber Cert IV · CS50x · CompTIA ITF+
 
-**Contact:** [damon@titansoftwork.com](mailto:damon@titansoftwork.com)
+**Contact:** [damon@ryftenius.com](mailto:damon@ryftenius.com)
