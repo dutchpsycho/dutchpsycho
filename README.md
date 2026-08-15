@@ -2,9 +2,9 @@
 
 Bachelor student · Cyber Cert IV · CySA · CS50x · ITF+
 
-## Founder @TITAN Softworks
-### Business inquiries: contact@titansoftwork.com
-### Personal: damon@titansoftwork.com
+## Founder @RYFTENIUS
+### Business inquiries: contact@ryftenius.com
+### Personal: damon@ryftenius.com
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8damon&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" width="48%" />
