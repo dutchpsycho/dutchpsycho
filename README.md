@@ -1,4 +1,4 @@
-Windows Security Engineering, Malware Analysis & Response, Reverse Engineering, Secure Software Development, Secure Infrastructure, and Internal Operations Platforms.
+Windows Security Engineering/Software Development, Vulnerability Analysis, Malware Analysis & Response, Reverse Engineering, Remote Infrastructure.
 
 ### [Technical Writeups](https://ryftenius.com/insight/)
 
