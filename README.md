@@ -1,6 +1,6 @@
 Windows Security Engineering/Software Development, Vulnerability Analysis, Malware Analysis & Response, Reverse Engineering, Remote Infrastructure.
 
-### [Technical Writeups](https://ryftenius.com/insight/) & [Work](https://ryftenius.com/capability/)
+### [Writeups](https://ryftenius.com/insight/) & [Projects](https://ryftenius.com/capability/)
 
 --- 
 
