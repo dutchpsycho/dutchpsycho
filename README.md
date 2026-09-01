@@ -1,8 +1,6 @@
 Windows Security Engineering/Software Development, Vulnerability Analysis, Malware Analysis & Response, Reverse Engineering, Remote Infrastructure.
 
-### [Writeups](https://ryftenius.com/insight/) & [Projects](https://ryftenius.com/capability/)
-
---- 
+## [Writeups](https://ryftenius.com/insight/) & [Projects](https://ryftenius.com/capability/)
 
 * **Vulnerability Research:** Windows Internals, Windows Kernel, Vulnerability Research, Zero-Day Research, Exploit Development, Crash Analysis, Root Cause Analysis, PVR, CVSS, CWE, Responsible Disclosure
 * **Windows Internals & Platform Security:** Windows API, Win32/Native API, User/Kernel-Mode Debugging, PowerShell, Event Tracing for Windows (ETW), Active Directory (AD), Windows Management Instrumentation (WMI), Component Object Model (COM), Kernel-Mode Driver Framework (KMDF), Driver Verifier, Extended Page Tables (EPT)
@@ -18,7 +16,7 @@ Windows Security Engineering/Software Development, Vulnerability Analysis, Malwa
 * **Networking:** Cisco Packet Tracer, Fortinet, Windows Firewall, UFW, pfSense, Wireshark
 * **Security Frameworks:** SOC 2, OWASP ASVS, NIST CSF 2.0
 
-### Education & Certifications
+## Education & Certifications
 
 Certificate IV in Cyber Security · Harvard CS50x · CompTIA IT Fundamentals (ITF+)
 
